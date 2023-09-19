@@ -1,3 +1,5 @@
+![](https://github.com/renan-siqueira/Mood-Mesh-Viewer-pt-BR/blob/develop/mood-mesh-viewer.gif)
+
 # Mood-Mesh-Viewer
 
 Este projeto é uma ferramenta desenvolvida em Python, que combina tecnologias de visão computacional para exibir vídeos com a capacidade de identificar e anotar pontos faciais e emoções das faces presentes nos quadros.
