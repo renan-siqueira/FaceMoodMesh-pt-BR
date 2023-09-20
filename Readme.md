@@ -69,34 +69,37 @@ $ pip install -r requirements.txt
 
 3.1. Clone ou faça o download do projeto para sua máquina local:
 
-    3.1.1 Abra um terminal ou prompt de comando em seu computador.
+3.1.1 Abra um terminal ou prompt de comando em seu computador.
 
-    3.1.2 Navegue até o diretório onde deseja clonar o projeto usando o comando cd. Por exemplo:
+3.1.2 Navegue até o diretório onde deseja clonar o projeto usando o comando cd. Por exemplo:
 
-    ```bash
-    $ cd ~/Desktop
-    ```
+```bash
+$ cd ~/Desktop
+```
 
-    3.1.3 Execute o comando `git clone` seguido do URL do projeto:
+3.1.3 Execute o comando `git clone` seguido do URL do projeto:
 
-    ```bash
-    $ git clone https://github.com/renan-siqueira/FaceMoodMesh-pt-BR.git
-    ```
+```bash
+$ git clone https://github.com/renan-siqueira/FaceMoodMesh-pt-BR.git
+```
 
-    3.1.4 Aguarde enquanto o Git clona o projeto em seu computador. Uma vez concluído, você verá uma nova pasta chamada "FaceMoodMesh" no diretório que escolheu.
+3.1.4 Aguarde enquanto o Git clona o projeto em seu computador. Uma vez concluído, você verá uma nova pasta chamada "FaceMoodMesh" no diretório que escolheu.
 
-    3.1.5 Navegue até a pasta do projeto clonado:
+3.1.5 Navegue até a pasta do projeto clonado:
 
-    ```bash
-    $ cd FaceMoodMesh-pt-BR
-    ```
+```bash
+$ cd FaceMoodMesh-pt-BR
+```
 
-    3.1.6 A partir daqui, você pode continuar com os passos de instalação e configuração conforme a documentação do projeto.
+3.1.6 A partir daqui, você pode continuar com os passos de instalação e configuração conforme a documentação do projeto.
 
-*__Lembre-se: você precisa ter o Git instalado em seu computador para executar esses comandos. Se ainda não tiver, pode baixá-lo e instalá-lo a partir do `[site oficial do Git](https://git-scm.com/)`.__*
+--- 
+
+*__Lembre-se: você precisa ter o Git instalado em seu computador para executar esses comandos. Se ainda não tiver, pode baixá-lo e instalá-lo a partir do [site oficial do Git](https://git-scm.com/).__*
+
+---
 
 3.2. Renomeie o arquivo `settings.example.py` para `settings.py`.
-
 3.3. Atualize as variáveis no `settings.py`:
 
 * `PATH_INPUT_DIR`: Especifique o diretório onde seu vídeo está armazenado.
